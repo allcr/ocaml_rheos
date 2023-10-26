@@ -1,0 +1,5 @@
+# dune init project ocaml_rheos
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/craigallen/projects/ocaml_rheos/ocaml_rheos
+# Auto-detected concurrency: 8
